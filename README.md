@@ -507,6 +507,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
 - [Jo Lienhoop](https://jolienhoop.com)
+- [Joel Prince Yehezekocolo](https://joelprince.up.railway.app)[Fullstack Developer]
 - [John Carlo Camara](https://jiseeeh.codes)
 - [John Doe](https://portfolio-john2.netlify.app)
 - [Johnny Chai](https://johnnychai.com) [Web Developer]
